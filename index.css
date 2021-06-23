@@ -322,6 +322,7 @@ border-radius: 4px;
     .footer{
     display: grid;
     grid-template-columns: 1fr 1fr;
+    background-color: transparent;
     background-image: url(./imagenes/puntitos.png);
     }
 }
